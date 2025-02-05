@@ -8,11 +8,11 @@
 		<version>3.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.proyecto</groupId>
-	<artifactId>proyecto_desarrollo_de_apps_2</artifactId>
+	<groupId>com.backend</groupId>
+	<artifactId>AppFutbol</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Proyecto Desarrollo de Apps 2</name>
-	<description>Desarrollo de Web Futbol para el curso Desarrollo de Apps 2</description>
+	<name>AppFutbol</name>
+	<description>App de Futbol Cibertec</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -40,12 +40,6 @@
 			<artifactId>spring-cloud-starter-openfeign</artifactId>
 		</dependency>
 
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-devtools</artifactId>
-			<scope>runtime</scope>
-			<optional>true</optional>
-		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>

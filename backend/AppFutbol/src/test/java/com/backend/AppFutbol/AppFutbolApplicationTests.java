@@ -1,10 +1,10 @@
-package com.proyecto.proyecto_desarrollo_de_apps_2;
+package com.backend.AppFutbol;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProyectoDesarrolloDeApps2ApplicationTests {
+class AppFutbolApplicationTests {
 
 	@Test
 	void contextLoads() {

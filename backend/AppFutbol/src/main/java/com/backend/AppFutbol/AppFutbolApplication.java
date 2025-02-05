@@ -1,13 +1,13 @@
-package com.proyecto.proyecto_desarrollo_de_apps_2;
+package com.backend.AppFutbol;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProyectoDesarrolloDeApps2Application {
+public class AppFutbolApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProyectoDesarrolloDeApps2Application.class, args);
+		SpringApplication.run(AppFutbolApplication.class, args);
 	}
 
 }
