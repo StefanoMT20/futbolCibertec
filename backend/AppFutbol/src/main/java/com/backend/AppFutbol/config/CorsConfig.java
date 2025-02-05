@@ -1,4 +1,4 @@
-package com.example.appfutbol.config;
+package com.backend.AppFutbol.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
